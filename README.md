@@ -15,5 +15,5 @@
   <a href="https://www.instagram.com/leonardo.costa1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-costa-78156b2a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/leonardo.costa.7370"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    ![Snake animation](https://github.com/Leonardocosta3/Leonardocosta3/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Leonardocosta3/blob/output/github-contribution-grid-snake.svg)
 </div>
