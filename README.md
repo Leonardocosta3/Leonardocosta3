@@ -18,6 +18,6 @@
   <a href="https://www.instagram.com/leonardo.costa1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-costa-78156b2a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/leonardo.costa.7370"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="leonardo.costa2@live.com"><img alt="Static Badge" src="https://img.shields.io/badge/Outlook-%25230077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=blue&color=blue" target="_blank"></a>
+  <a href="https://outlook.live.com/mail/0/"><img alt="Static Badge" src="https://img.shields.io/badge/Outlook-%25230077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=blue&color=blue" target="_blank"></a>
 
 </div>
