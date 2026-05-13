@@ -3,8 +3,6 @@
 - 🌱 Estudando Engenharia de Computação
   <div>
       <a href=https://github.com/Leonardocosta3></a>
-      <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=Leonardocosta3&theme=github_dark&show_icons=true&count_private=true"/>
-      <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardocosta3&layout=compact&langs_count=16&theme=github_dark"/>
        
   </div>
 
